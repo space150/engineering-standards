@@ -11,5 +11,5 @@ repository-code: "https://github.com/space150/engineering-standards"
 preferred-citation:
   type: manual
   authors:
-  - family-names: "space150"
-    given-names: "space150"
+    - family-names: "space150"
+      given-names: "space150"
