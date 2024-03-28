@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software manual, please cite it as below."
+authors:
+  - family-names: space150
+    given-names: space150
+title: "space150 Software Engineering Standards"
+version: 0.1.0
+date-released: 2024-03-27
+license: "Creative Commons Zero v1.0 Universal"
+repository-code: "https://github.com/space150/engineering-standards"
+preferred-citation:
+  type: manual
+  authors:
+  - family-names: "space150"
+    given-names: "space150"
